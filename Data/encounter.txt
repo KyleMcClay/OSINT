@@ -4,11 +4,13 @@ Coordinates of the meeting are below.
 
 The number -0.841600711036728 is incorrect. You need to decode it to know the other portion of the coordinates
 
+start with -0.841600711036728
+
 The number has to be: 
 
 - Divided by the second prime number 
-- Subtract value equivalent to Pi π
-- Multiply by the number multiple of the first 5 digits (do not simplify) 
+- Subtract value equivalent to Pi (π==3.14)
+- Multiply by the product of the first 5 natural numbers
 - Add the sixth fibonacci value, zero inclusive   
 
 The order has to be discovered as I do not want to be obvious about location 
